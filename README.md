@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Mi nombre es David, me encanta y facila la programación, en donde el aprendizaje es continuo y se renova constantemente. 
 <!--
 **dasacaso/dasacaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
